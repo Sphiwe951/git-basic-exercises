@@ -1,0 +1,1000 @@
+ 1017  make
+ 1018  make run
+ 1019  clear
+ 1020  make
+ 1021  make run
+ 1022  clear
+ 1023  make
+ 1024  make run
+ 1025  make
+ 1026  make run
+ 1027  clear
+ 1028  make
+ 1029  make run
+ 1030  clear
+ 1031  make
+ 1032  make run
+ 1033  clear
+ 1034  make
+ 1035  make run
+ 1036  clear
+ 1037  make
+ 1038  make run
+ 1039  make
+ 1040  make run
+ 1041  clear
+ 1042  make
+ 1043  make run
+ 1044  clear
+ 1045  make
+ 1046  clear
+ 1047  make
+ 1048  make run
+ 1049  clear
+ 1050  make
+ 1051  make run
+ 1052  clear
+ 1053  make
+ 1054  make run
+ 1055  clear
+ 1056  make
+ 1057  make run
+ 1058  clear
+ 1059  make
+ 1060  clear
+ 1061  make
+ 1062  clear
+ 1063  make
+ 1064  make run
+ 1065  make
+ 1066  make run
+ 1067  clear
+ 1068  make
+ 1069  make run
+ 1070  clear
+ 1071  make
+ 1072  make run
+ 1073  clear
+ 1074  make
+ 1075  make run
+ 1076  clear
+ 1077  make
+ 1078  clear
+ 1079  make
+ 1080  make run
+ 1081  clear
+ 1082  make
+ 1083  make run
+ 1084  make
+ 1085  make run
+ 1086  clear
+ 1087  make
+ 1088  make run
+ 1089  clear
+ 1090  make
+ 1091  make run
+ 1092  clear
+ 1093  make
+ 1094  make run
+ 1095  clear
+ 1096  make
+ 1097  clear
+ 1098  make
+ 1099  make run
+ 1100  clear
+ 1101  make
+ 1102  make run
+ 1103  clear
+ 1104  make
+ 1105  make run
+ 1106  clear
+ 1107  make
+ 1108  make run
+ 1109  clear
+ 1110  make
+ 1111  make run
+ 1112  clear
+ 1113  make
+ 1114  clear
+ 1115  make
+ 1116  make run
+ 1117  clear
+ 1118  make
+ 1119  make run
+ 1120  clear
+ 1121  make
+ 1122  make run
+ 1123  clear
+ 1124  make
+ 1125  make run
+ 1126  clear
+ 1127  make
+ 1128  make run
+ 1129  clear
+ 1130  make
+ 1131  make run
+ 1132  clear
+ 1133  make
+ 1134  make run
+ 1135  clear
+ 1136  make
+ 1137  make run
+ 1138  clear
+ 1139  make
+ 1140  make run
+ 1141  clear
+ 1142  make
+ 1143  make run
+ 1144  make
+ 1145  make run
+ 1146  clear
+ 1147  make
+ 1148  clear
+ 1149  make
+ 1150  clear
+ 1151  make
+ 1152  make run
+ 1153  sudo apt update
+ 1154  sudo apt upgrade
+ 1155  clear
+ 1156  make
+ 1157  clear
+ 1158  make
+ 1159  clear
+ 1160  make
+ 1161  clear
+ 1162  make
+ 1163  clear
+ 1164  make
+ 1165  clear
+ 1166  make
+ 1167  clear
+ 1168  make
+ 1169  clear
+ 1170  make
+ 1171  clear
+ 1172  make
+ 1173  clear
+ 1174  make
+ 1175  clear
+ 1176  make
+ 1177  clear
+ 1178  make
+ 1179  clear
+ 1180  make
+ 1181  cler
+ 1182  clear
+ 1183  make
+ 1184  clear
+ 1185  make
+ 1186  clear
+ 1187  make
+ 1188  clear
+ 1189  make
+ 1190  clear
+ 1191  make
+ 1192  clear
+ 1193  make
+ 1194  clear
+ 1195  make
+ 1196  clear
+ 1197  make
+ 1198  clear
+ 1199  make
+ 1200  clear
+ 1201  make
+ 1202  clear
+ 1203  make
+ 1204  clear
+ 1205  make
+ 1206  clear
+ 1207  make run
+ 1208  make
+ 1209  clear
+ 1210  make
+ 1211  cleaar
+ 1212  clear
+ 1213  make
+ 1214  clear
+ 1215  make
+ 1216  make run
+ 1217  clear
+ 1218  make run
+ 1219  make
+ 1220  make run
+ 1221  clear
+ 1222  make run
+ 1223  make
+ 1224  clear
+ 1225  make
+ 1226  make run
+ 1227  make
+ 1228  make run
+ 1229  make
+ 1230  make run
+ 1231  make
+ 1232  make run
+ 1233  make
+ 1234  make run
+ 1235  clear
+ 1236  make
+ 1237  make run
+ 1238  make
+ 1239  make run
+ 1240  make
+ 1241  make run
+ 1242  ./main.o
+ 1243  make
+ 1244  make run
+ 1245  make
+ 1246  make run
+ 1247  make
+ 1248  make run
+ 1249  make
+ 1250  make run
+ 1251  make
+ 1252  make run
+ 1253  make
+ 1254  make run
+ 1255  make
+ 1256  make run
+ 1257  make
+ 1258  make run
+ 1259  make
+ 1260  make run
+ 1261  make
+ 1262  make run
+ 1263  make
+ 1264  make run
+ 1265  make
+ 1266  make run
+ 1267  make
+ 1268  make run
+ 1269  make
+ 1270  make run
+ 1271  make
+ 1272  make run
+ 1273  make
+ 1274  make run
+ 1275  make
+ 1276  make run
+ 1277  make
+ 1278  make run
+ 1279  make
+ 1280  make run
+ 1281  make
+ 1282  make run
+ 1283  make
+ 1284  make run
+ 1285  make
+ 1286  make run
+ 1287  make
+ 1288  make run
+ 1289  make
+ 1290  make run
+ 1291  make
+ 1292  make run
+ 1293  make
+ 1294  make run
+ 1295  make
+ 1296  make run
+ 1297  make
+ 1298  make run
+ 1299  make
+ 1300  make run
+ 1301  make
+ 1302  make run
+ 1303  make
+ 1304  make run
+ 1305  make
+ 1306  make run
+ 1307  make
+ 1308  make run
+ 1309  make
+ 1310  make run
+ 1311  make
+ 1312  make run
+ 1313  make
+ 1314  make run
+ 1315  make
+ 1316  make run
+ 1317  make
+ 1318  make run
+ 1319  make
+ 1320  make run
+ 1321  make
+ 1322  make run
+ 1323  clear
+ 1324  make
+ 1325  make run
+ 1326  make
+ 1327  make run
+ 1328  make
+ 1329  make run
+ 1330  make
+ 1331  make run
+ 1332  make
+ 1333  make run
+ 1334  make
+ 1335  make run
+ 1336  make
+ 1337  make run
+ 1338  make
+ 1339  make run
+ 1340  make
+ 1341  make run
+ 1342  make
+ 1343  make run
+ 1344  make
+ 1345  make run
+ 1346  make
+ 1347  make run
+ 1348  make
+ 1349  make run
+ 1350  make
+ 1351  make run
+ 1352  make
+ 1353  sudo apt install telegram-desktop
+ 1354  sudo apt update
+ 1355  sudo apt upgrade
+ 1356  sudo apt update
+ 1357  sudo apt upgrade
+ 1358  sudo apt update
+ 1359  sudo apt upgrade
+ 1360  sudo apt update
+ 1361  sudo apt upgrade
+ 1362  sudo apt update
+ 1363  wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+ 1364  sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
+ 1365  sudo apt-get update
+ 1366  sudo apt-get install atom
+ 1367  echo "options asus_nb_wmi wapf=4" | sudo tee /etc/modprobe.d/asus_nb_wmi.conf
+ 1368  lspci -nnk | grep -A2 0280
+ 1369  rfkill list all
+ 1370  lspci
+ 1371  iwconfig
+ 1372  sudo ifconfig lo up
+ 1373  sudo ifconfig wlan0 up
+ 1374  sudo iwconfig wlan0 up
+ 1375  sudo iwconfig wlan0
+ 1376  sudo apt upgrade
+ 1377  sudo apt update
+ 1378  iwconfig
+ 1379  sudo apt install git
+ 1380  ls
+ 1381  ls/data
+ 1382  ls /data
+ 1383  ls/documents
+ 1384  ls /documents
+ 1385  ls /
+ 1386  pwd
+ 1387  mkdir new_directory
+ 1388  ls /
+ 1389  pwd
+ 1390  cd new_directory
+ 1391  cd ..
+ 1392  pwd
+ 1393  ls
+ 1394  rm new_directory
+ 1395  rf new_directory
+ 1396  rm -r new_directory
+ 1397  ls
+ 1398  clear
+ 1399  git config
+ 1400  git config --global user.name "Siphiwe Mposula"
+ 1401  git config --global user.email "siphiwemposula07@gmail.com"
+ 1402  git config --global core.editor vim
+ 1403  clear
+ 1404  ls
+ 1405  mkdir git-basic-exercises
+ 1406  cd git-basic-exercises
+ 1407  ls -a
+ 1408  git init
+ 1409  ls -a
+ 1410  git status
+ 1411  touch README.md
+ 1412  ls -a
+ 1413  git status
+ 1414  git log
+ 1415  git add README.md
+ 1416  git status
+ 1417  git reset README.md
+ 1418  git status
+ 1419  git add README.md
+ 1420  git commit -m "initial commit"
+ 1421  git log
+ 1422  q
+ 1423  nano README.md
+ 1424  vim README.md
+ 1425  nano README.md
+ 1426  cat README.md
+ 1427  cat README
+ 1428  cat README.md
+ 1429  git stats
+ 1430  git log
+ 1431  git status
+ 1432  git add README.md
+ 1433  git commit -m "second commit"
+ 1434  nano README.md
+ 1435  cat README.md
+ 1436  git status
+ 1437  git add README.md
+ 1438  git commit -m "third commit"
+ 1439  git log
+ 1440  clear
+ 1441  git log
+ 1442  git checkout 9afb8785d35a70fded8b29fcf5416f2eec81568c
+ 1443  cat README.md
+ 1444  git checkout main
+ 1445  cat README.md
+ 1446  git checkout
+ 1447  cat README.md
+ 1448  git checkout main
+ 1449  git checkout 7cf279a7927925b7090edab91aaec7d668de9160
+ 1450  cat README.md
+ 1451  clear
+ 1452  git branch
+ 1453  ls 
+ 1454  git branch milkshake-flavours
+ 1455  git branch
+ 1456  git checkout milkshake-flavours
+ 1457  git branch
+ 1458  nano milkshaked.md
+ 1459  git status
+ 1460  git mv milkshaked.md milkshakes.md
+ 1461  ls
+ 1462  rm milkshaked.md
+ 1463  ls
+ 1464  nano milkshakes.md
+ 1465  git status
+ 1466  git add milkshakes.md
+ 1467  git commit -m "added initial flavours"
+ 1468  git log
+ 1469  git branch
+ 1470  git checkout main
+ 1471  git checkout master
+ 1472  git branch history
+ 1473  git checkout history
+ 1474  git log
+ 1475  git branch
+ 1476  history > history.txt
+ 1477  git branch
+ 1478  git status
+ 1479  git add history.txt
+ 1480  git commit -m "added history"
+ 1481  git log
+ 1482  git checkout milkshake-flavours
+ 1483  git log
+ 1484  ls
+ 1485  nano README.md
+ 1486  git status
+ 1487  git add README.md
+ 1488  git commit -m "random readme changes"
+ 1489  git checkout history
+ 1490  cat README.txt
+ 1491  cat README.md
+ 1492  clear
+ 1493  git checkout history
+ 1494  rm README.md
+ 1495  echo "booya" > README.md
+ 1496  git status
+ 1497  git add README.md
+ 1498  git commit -m "rewrote readme"
+ 1499  git checkout main
+ 1500  git checkout master
+ 1501  ls
+ 1502  git log
+ 1503  git checkout milkshake-flavours
+ 1504  ls
+ 1505  git log
+ 1506  git checkout history
+ 1507  ls
+ 1508  git log
+ 1509  git checkout master
+ 1510  git merge milkshake-flavours
+ 1511  git merge history
+ 1512  nano README.md
+ 1513  git status
+ 1514  git add README.md
+ 1515  git commit
+ 1516  git commit -a
+ 1517  git status
+ 1518  git checkout history
+ 1519  git commit -F
+ 1520  git commit 
+ 1521  git commit -m "merge"
+ 1522  git checkout history
+ 1523  git log
+ 1524  git merger master
+ 1525  git merge master
+ 1526  clear
+ 1527  git remote add origin https://github.com/Sphiwe951/git-basic-exercises.git
+ 1528  ls
+ 1529  cd git-basic-exercises
+ 1530  git remote add origin https://github.com/Sphiwe951/git-basic-exercises.git
+ 1531  git branch -M main
+ 1532  git push -u origin main
+ 1533  ls
+ 1534  cd git-basic-exercises
+ 1535  git remote add origin https://github.com/Sphiwe951/git-basic-exercises.git
+ 1536  ls
+ 1537  git branch -M history
+ 1538  git push -u origin history
+ 1539  git branch -M milkshake-flavours
+ 1540  git push -u origin milkshake-flavours
+ 1541  clear
+ 1542  cd ../
+ 1543  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1544  cd a-repo-to-clone
+ 1545  ls
+ 1546  git branch
+ 1547  git log
+ 1548  git branch -a
+ 1549  git checkout project/git-basic-exercises
+ 1550  git branch project/git-basic-exercises
+ 1551  git remote -v
+ 1552  git checkout project/git-basic-exercises
+ 1553  git log
+ 1554  cd
+ 1555  ls
+ 1556  mkdir this-will-be-another-repo
+ 1557  cd this-will-be-another-repo
+ 1558  git init
+ 1559  touch README.md
+ 1560  git status
+ 1561  git add README.md
+ 1562  git commit -m "one"
+ 1563  cd
+ 1564  ls
+ 1565  cd git-basic-exercises
+ 1566  ls
+ 1567  touch ignore-me.db
+ 1568  git status
+ 1569  nano .gitignore
+ 1570  git status
+ 1571  mkdir large-directory-that-should-be-local-only
+ 1572  cd large-directory-that-should-be-local-only
+ 1573  nano readme.md
+ 1574  cat readme.md
+ 1575  cd ..
+ 1576  git status
+ 1577  nano .gitignore 
+ 1578  git status
+ 1579  git add .gitignore 
+ 1580  git commit -m "added .gitignore" 
+ 1581  git branch
+ 1582  git push
+ 1583  ls
+ 1584  cd
+ 1585  ls
+ 1586  cd git-basic-exercises
+ 1587  ls
+ 1588  git push
+ 1589  python --version
+ 1590  python2 --version
+ 1591  python3 --version
+ 1592  sudo apt-get install python3.9 python3-pip
+ 1593  python3 winning.py
+ 1594  ls
+ 1595  cd Documents/2021
+ 1596  ls
+ 1597  cd Data Programming BC
+ 1598  cd Data\ Programming\ BC/
+ 1599  ls
+ 1600  python3 winning.py
+ 1601  python "/home/sphiwe/Documents/2021/Data Programming BC/winning.py"
+ 1602  ls
+ 1603  rm git-basic-exercises/
+ 1604  rm -r git-basic-exercises/
+ 1605  cd git-basic-exercise
+ 1606  cd git-basic-exercises
+ 1607  ls
+ 1608  cd large-directory-that-should-be-local-only/
+ 1609  ls
+ 1610  cat readme.md
+ 1611  git branch README.md
+ 1612  ls
+ 1613  cat README.md
+ 1614  cd ..
+ 1615  ls
+ 1616  cd
+ 1617  clear
+ 1618  ls
+ 1619  rmdir git-basic-exercises
+ 1620  mkdir fixes
+ 1621  ls
+ 1622  cd fixes
+ 1623  git clone https://github.com/Sphiwe951/git-basic-exercises
+ 1624  ls
+ 1625  cd git-basic-exercises
+ 1626  ls
+ 1627  git checkout master
+ 1628  git checkout main
+ 1629  git checkout history
+ 1630  git checkout main
+ 1631  git merge milkshake-flavours
+ 1632  git log
+ 1633  cd
+ 1634  ls
+ 1635  mkdir exercises
+ 1636  cd exercises/
+ 1637  ls
+ 1638  clear
+ 1639  mkdir git-basic-exercises
+ 1640  cd git-basic-exercises/
+ 1641  ls -a
+ 1642  git init
+ 1643  ls -a
+ 1644  git status
+ 1645  touch README.md
+ 1646  ls -a
+ 1647  git status
+ 1648  git log
+ 1649  git add README.md
+ 1650  git status
+ 1651  git commit -m "initial commit"
+ 1652  git log
+ 1653  nano README.md
+ 1654  git stats
+ 1655  git status
+ 1656  git add README.md
+ 1657  git commit -m "second commit"
+ 1658  nano README.md
+ 1659  git add README.md
+ 1660  git commit -m "third commit"
+ 1661  git log
+ 1662  git checkout b4b935fd2d6c390b79073665c60c444025e3edd4
+ 1663  git checkout main
+ 1664  git checkout master
+ 1665  clear
+ 1666  git branch
+ 1667  git branch milkshake-flavours
+ 1668  git branch
+ 1669  checkout milkshake-flavours
+ 1670  git checkout milkshake-flavours
+ 1671  git branch
+ 1672  nano milkshakes.md
+ 1673  git status
+ 1674  git add milkshakes.md
+ 1675  git commit -m "added initial flavours"
+ 1676  git log
+ 1677  git checkout master
+ 1678  ls
+ 1679  git branch history
+ 1680  git checkout history
+ 1681  git log
+ 1682  git branch
+ 1683  history > history.txt
+ 1684  git status
+ 1685  git add history.txt
+ 1686  git commit -m "added history"
+ 1687  git log
+ 1688  git checkout milkshake
+ 1689  git checkout milkshake-flavours
+ 1690  git log
+ 1691  nano README.md
+ 1692  git status
+ 1693  git add README.md
+ 1694  git commit -m "random readme changes"
+ 1695  git checkout history
+ 1696  cat README.md
+ 1697  rm README.md
+ 1698  echo "booya" > README.md
+ 1699  git status
+ 1700  git add README.md
+ 1701  git commit -m "rewrote readme"
+ 1702  git checkout master
+ 1703  clear
+ 1704  ls
+ 1705  git log
+ 1706  git checkout milkshake-flavours 
+ 1707  ls
+ 1708  git log
+ 1709  git reset --hard random readme changes
+ 1710  git reset --hard HEAD^
+ 1711  git log
+ 1712  git checkout master
+ 1713  nano README.md
+ 1714  git status
+ 1715  git add README.md
+ 1716  git commit -m "random readme changes"
+ 1717  git checkout milkshake-flavours 
+ 1718  ls
+ 1719  git log
+ 1720  git checkout history
+ 1721  ls
+ 1722  git log
+ 1723  git checkout master
+ 1724  git merge milkshake-flavours 
+ 1725  ls
+ 1726  git log
+ 1727  clear
+ 1728  git checkout main
+ 1729  git checkout master
+ 1730  git merge milkshake-flavours 
+ 1731  git log
+ 1732  ls
+ 1733  git merge history
+ 1734  ls
+ 1735  git checkout history
+ 1736  ls
+ 1737  rm milkshakes.md
+ 1738  ls
+ 1739  git checkout master
+ 1740  git merge history
+ 1741  ls
+ 1742  clear
+ 1743  git checkout master
+ 1744  ls
+ 1745  git loh
+ 1746  git log
+ 1747  git checkout milkshake-flavours 
+ 1748  ls
+ 1749  nano milkshakes.md
+ 1750  ls
+ 1751  git log
+ 1752  git status
+ 1753  git add
+ 1754  git add milkshakes.md
+ 1755  clear
+ 1756  cd 
+ 1757  ls
+ 1758  mkdir git-basic-exercises
+ 1759  ls
+ 1760  cd git-basic-exercises/
+ 1761  git init
+ 1762  git status
+ 1763  touch README.md
+ 1764  git status
+ 1765  git add README.md
+ 1766  git status
+ 1767  git commit -m "initial commit"
+ 1768  clear
+ 1769  nano README.md
+ 1770  cat README.md
+ 1771  git add README.md
+ 1772  git commit -m "second commit"
+ 1773  nano README.md
+ 1774  git add README.md
+ 1775  git commit -m "third commit"
+ 1776  git log
+ 1777  clear
+ 1778  git log
+ 1779  git checkout c2bc3c110c7802af88eb63b4d1a0234dd429f749
+ 1780  cat README.md
+ 1781  git checkout main
+ 1782  git checkout master
+ 1783  clear
+ 1784  git branch
+ 1785  git branch milkshake-flavours
+ 1786  git branch
+ 1787  git checkout milkshake-flavours 
+ 1788  nano milkshakes.md
+ 1789  git status
+ 1790  git add milkshakes.md
+ 1791  git commit -m "added initial flavours"
+ 1792  git log
+ 1793  git checkout master
+ 1794  git log
+ 1795  git branch history
+ 1796  git branch
+ 1797  git checkout history
+ 1798  git log
+ 1799  history > history.txt
+ 1800  git status
+ 1801  git add history.txt
+ 1802  git commit -m "added history"
+ 1803  git log
+ 1804  git checkout milkshake-flavours 
+ 1805  git log
+ 1806  clear
+ 1807  git checkout history
+ 1808  rm README.md 
+ 1809  echo "booya" > README.md
+ 1810  git status
+ 1811  git add README.md
+ 1812  git commit -m "rewrote readme"
+ 1813  git checkout master
+ 1814  ls
+ 1815  git log
+ 1816  git checkout milkshake-flavours 
+ 1817  ls
+ 1818  git log
+ 1819  git checkout history 
+ 1820  ls
+ 1821  git log
+ 1822  clear
+ 1823  git checkout master
+ 1824  git merge milkshake-flavours 
+ 1825  ls
+ 1826  git log
+ 1827  git merge history
+ 1828  ls
+ 1829  clear
+ 1830  git checkout history
+ 1831  git merge master
+ 1832  ls
+ 1833  git remote add origin https://github.com/Sphiwe951/git-basic-exercises.git
+ 1834  git branch -M main
+ 1835  git push -u origin main
+ 1836  git remote add origin https://github.com/Sphiwe951/git-basic-exercises.git
+ 1837  git branch -M milkshake-flavours 
+ 1838  git push -u origin milkshake-flavours 
+ 1839  git branch -M history.txt
+ 1840  git branch
+ 1841  git branch -M history
+ 1842  git push -u origin history
+ 1843  git branch -M milkshake-flavours
+ 1844  git checkout master
+ 1845  git status
+ 1846  git log
+ 1847  git branch -M milkshake-flavours
+ 1848  git push -u origin milkshake-flavours
+ 1849  clear
+ 1850  cd ../
+ 1851  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1852  cd a-repo-to-clone
+ 1853  git branch
+ 1854  git branch -a
+ 1855  git remote -v
+ 1856  git branch project/git-basic-exercises
+ 1857  git checkout project/git-basic-exercises 
+ 1858  git log
+ 1859  git branch
+ 1860  cd 
+ 1861  mkdir this-will-be-another-repo
+ 1862  cd this-will-be-another-repo/
+ 1863  git init
+ 1864  touch README.md
+ 1865  git status
+ 1866  git add README.md
+ 1867  git commit -m " "
+ 1868  git commit -m "new touch "
+ 1869  cd 
+ 1870  ls
+ 1871  cd git-basic-exercises/
+ 1872  git log
+ 1873  touch ignore-me.db
+ 1874  git status
+ 1875  nano .gitignore
+ 1876  mkdir large-directory-that-should-be-local-only
+ 1877  cd large-directory-that-should-be-local-only/
+ 1878  nano readme.md
+ 1879  cd ..
+ 1880  git status
+ 1881  nano .gitignore
+ 1882  git status
+ 1883  git add .gitignore
+ 1884  git commit -m "added .gitignore"
+ 1885  git push
+ 1886  ls
+ 1887  git clone https://github.com/Sphiwe951/git-basic-exercises
+ 1888  ls
+ 1889  cd git-basic-exercises/
+ 1890  ls
+ 1891  git branches
+ 1892  git branch
+ 1893  clear
+ 1894  ls
+ 1895  mkdir git-basic-exercises
+ 1896  cd git-basic-exercises/
+ 1897  ls -a
+ 1898  git init
+ 1899  git status
+ 1900  touch README.md
+ 1901  ls -a
+ 1902  git status
+ 1903  git add README.md
+ 1904  git commit -m "initial commit"
+ 1905  clear
+ 1906  nano README.md
+ 1907  git status
+ 1908  git add README.md
+ 1909  git commit -m "second commit"
+ 1910  nano README.md
+ 1911  git add README.md
+ 1912  git commit -m "third commit"
+ 1913  git log
+ 1914  clear
+ 1915  git branch milkshake-flavours
+ 1916  git checkout milkshake-flavours 
+ 1917  nano milkshakes.md
+ 1918  git status
+ 1919  git add milkshakes.md 
+ 1920  git commit -m "added initial flavours"
+ 1921  checkout master
+ 1922  git checkout master
+ 1923  git branch history 
+ 1924  git checkout history 
+ 1925  git log
+ 1926  git branch
+ 1927  history > history.txt
+ 1928  git status
+ 1929  git add history.txt
+ 1930  git commit -m "added history"
+ 1931  git log
+ 1932  git checkout milkshake-flavours 
+ 1933  git log
+ 1934  git checkout history 
+ 1935  cat README.md
+ 1936  rm README.md
+ 1937  echo "booya" > README.md
+ 1938  git status
+ 1939  git add README.md
+ 1940  git commit -m "rewrote readme"
+ 1941  git checkout master
+ 1942  ls
+ 1943  git log
+ 1944  git checkout milkshake-flavours 
+ 1945  ls
+ 1946  git log
+ 1947  git checkout history 
+ 1948  ls
+ 1949  git log
+ 1950  q
+ 1951  clear
+ 1952  git checkout master
+ 1953  git merge milkshake-flavours
+ 1954  git checkout master
+ 1955  git merge history
+ 1956  ls
+ 1957  git branch
+ 1958  git status
+ 1959  git commit
+ 1960  git checkout history
+ 1961  git merge master
+ 1962  git commit
+ 1963  git commit -F
+ 1964  clear
+ 1965  git merge master
+ 1966  ls
+ 1967  git status
+ 1968  git merge --abort
+ 1969  git status
+ 1970  git checkout master
+ 1971  git merge history 
+ 1972  git merge --abort
+ 1973  sudo apt-get install vim
+ 1974  clear
+ 1975  git branch
+ 1976  git merge history 
+ 1977  ls
+ 1978  mkdir git-basic-exercises
+ 1979  cd git-basic-exercises/
+ 1980  ls -a
+ 1981  git init
+ 1982  ls -a
+ 1983  git status
+ 1984  touch README.md
+ 1985  ls -a
+ 1986  git status 
+ 1987  git add README.md
+ 1988  git commit -m "initial commit"
+ 1989  clear
+ 1990  nano README.md
+ 1991  cat README.md
+ 1992  git status
+ 1993  git add README.md
+ 1994  git commit -m "second commit"
+ 1995  nano README.md
+ 1996  git status
+ 1997  git add README.md
+ 1998  git commit -m "third commit"
+ 1999  clear
+ 2000  git log
+ 2001  clear
+ 2002  git branch
+ 2003  git branch milkshake-flavours
+ 2004  git checkout milkshake-flavours 
+ 2005  nano milkshakes.md
+ 2006  git status
+ 2007  git add milkshakes.md
+ 2008  git commit -m "added initial flavours"
+ 2009  git log
+ 2010  clear
+ 2011  git checkout master
+ 2012  git branch history
+ 2013  git checkout history
+ 2014  git log
+ 2015  git branch
+ 2016  history > history.txt
